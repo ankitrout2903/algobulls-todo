@@ -1,0 +1,15 @@
+asgiref
+dj-database-url
+Django
+djangorestframework
+drf-spectacular
+gunicorn
+psycopg2
+python-dotenv
+pytz
+pyyaml
+sqlparse
+typing_extensions
+tzdata
+uritemplate
+whitenoise[brotli]
